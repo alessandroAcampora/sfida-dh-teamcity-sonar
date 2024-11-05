@@ -1,1 +1,1 @@
-# sfida-dh-teamcity-sonar
+# INSTALLATION OF DOCKER IN WSL2 AND TEAMCITY, SONARQUBE
