@@ -69,8 +69,8 @@ services:
       - "8085:8085"
 
 volumes:
-  # db_data:
   # m2_cache:
+  db_data:
   teamcity_data:
   teamcity_logs:
   sonarqube_conf:
